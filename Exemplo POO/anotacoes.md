@@ -13,5 +13,5 @@ Paradigmas:
 Pilares: abstração, encapsulamento, herança e polimorfismo. 
 
 ## Abstração
+Abstrair um objeto do mundo real para um contexto específico, considerando apenas os atributos importantes.
 
-## Encapsulamento
