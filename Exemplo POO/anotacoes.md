@@ -15,3 +15,5 @@ Pilares: abstração, encapsulamento, herança e polimorfismo.
 ## Abstração
 Abstrair um objeto do mundo real para um contexto específico, considerando apenas os atributos importantes.
 
+## Encapsulamento
+Serve para proteger uma classe e definir limites para alteração de suas propriedades. Ocultar seu comportamento e expor somente o necessário.
