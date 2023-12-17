@@ -30,3 +30,6 @@ Podemos sobrescrever métodos das classes filhas para que se comportem de maneir
 Tem como obejtivo ser exclusivamente um modelo para ser herdado, portanto não pode ser instanciada.
 Você pode implementar métodos ou deixá-los a cargo de quem herdar.
 
+## Classes seladas
+Tem como objetivo impedir que outras classes façam uma herança dela, ou seja, nenhuma classe pode ser derivada.
+Também existe métodos e propriedades seladas.
