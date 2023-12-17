@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Exemplo_POO.Models
 {
-    public sealed class Professor : Pessoa
+    public class Professor : Pessoa
     {
     
         public decimal Salario { get; set; }

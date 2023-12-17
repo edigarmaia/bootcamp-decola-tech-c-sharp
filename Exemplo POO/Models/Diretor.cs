@@ -5,8 +5,12 @@ using System.Threading.Tasks;
 
 namespace Exemplo_POO.Models
 {
-    public class Diretor : Professor // Não pode herdar da classe Professor pois ela é uma classe selada
+    public class Diretor : Professor
     {
         
+          public override void Apresentar()
+        {
+            Console.WriteLine("Diretor");
+        }
     }
 }
