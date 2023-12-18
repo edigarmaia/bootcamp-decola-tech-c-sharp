@@ -33,3 +33,7 @@ Você pode implementar métodos ou deixá-los a cargo de quem herdar.
 ## Classes seladas
 Tem como objetivo impedir que outras classes façam uma herança dela, ou seja, nenhuma classe pode ser derivada.
 Também existe métodos e propriedades seladas.
+
+## Classe Object
+A classe System.Object é a mãe de todas as classes na hierarquia .Net
+Todas as classes derivam, direta ou indiretamente da classe Object, e ela tem como objetivo prover serviços de baixo nivel para as suas classes filhas.

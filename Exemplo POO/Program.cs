@@ -35,7 +35,11 @@ Corrente c = new Corrente();
 c.Creditar(500);
 c.ExibirSaldo(); 
 */
-
+/*
 Pessoa p1 = new Pessoa("Edigar");   
 Aluno a1 = new Aluno("Maria");
 a1.Apresentar();
+*/
+
+Computador c = new Computador();
+Console.WriteLine(c.ToString());
