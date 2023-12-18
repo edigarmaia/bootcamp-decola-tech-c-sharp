@@ -1,4 +1,5 @@
-﻿using Exemplo_POO.Models;
+﻿using Exemplo_POO.Interfaces;
+using Exemplo_POO.Models;
 /*
 Pessoa p1 = new Pessoa();
 p1.Nome = "Edigar";
@@ -41,5 +42,8 @@ Aluno a1 = new Aluno("Maria");
 a1.Apresentar();
 */
 
-Computador c = new Computador();
-Console.WriteLine(c.ToString());
+//Computador c = new Computador();
+//Console.WriteLine(c.ToString());
+
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3,9));

@@ -37,3 +37,8 @@ Também existe métodos e propriedades seladas.
 ## Classe Object
 A classe System.Object é a mãe de todas as classes na hierarquia .Net
 Todas as classes derivam, direta ou indiretamente da classe Object, e ela tem como objetivo prover serviços de baixo nivel para as suas classes filhas.
+
+## Interfaces
+Uma interface é um contrato que pode ser implementado por uma classe.
+É como de fosse uma classe abstrata, podendo definir métodos abstratos para serem implementados.
+Assim como uma classe abstrata, uma interface não pode ser instanciada.
