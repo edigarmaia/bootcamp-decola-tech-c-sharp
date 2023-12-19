@@ -26,3 +26,7 @@ p1.Nome = "Edigar";
 p1.Idade = 40;
 p1.Salario = 1000;
 p1.Apresentar();
+
+Corrente c = new Corrente();
+c.Creditar(500);
+c.ExibirSaldo(); 

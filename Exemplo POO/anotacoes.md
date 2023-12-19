@@ -25,3 +25,8 @@ Serve para agrupar objetos que são do mesmo tipo, porém, com características 
 ## Polimorfismo
 Significa "muitas formas"
 Podemos sobrescrever métodos das classes filhas para que se comportem de maneira diferente e ter sua própria implementação.
+
+## Classes abstratas
+Tem como obejtivo ser exclusivamente um modelo para ser herdado, portanto não pode ser instanciada.
+Você pode implementar métodos ou deixá-los a cargo de quem herdar.
+
