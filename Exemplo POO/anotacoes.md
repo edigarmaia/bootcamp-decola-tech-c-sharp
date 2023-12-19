@@ -21,3 +21,7 @@ Serve para proteger uma classe e definir limites para alteração de suas propri
 ## Herança
 Nos permite reutilizar atributos, métodos e comportamentos de uma classe em outras classes.
 Serve para agrupar objetos que são do mesmo tipo, porém, com características diferentes.
+
+## Polimorfismo
+Significa "muitas formas"
+Podemos sobrescrever métodos das classes filhas para que se comportem de maneira diferente e ter sua própria implementação.
