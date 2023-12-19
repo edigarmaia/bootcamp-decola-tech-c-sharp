@@ -17,3 +17,7 @@ Abstrair um objeto do mundo real para um contexto específico, considerando apen
 
 ## Encapsulamento
 Serve para proteger uma classe e definir limites para alteração de suas propriedades. Ocultar seu comportamento e expor somente o necessário.
+
+## Herança
+Nos permite reutilizar atributos, métodos e comportamentos de uma classe em outras classes.
+Serve para agrupar objetos que são do mesmo tipo, porém, com características diferentes.
