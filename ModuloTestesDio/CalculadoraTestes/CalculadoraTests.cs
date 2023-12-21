@@ -92,4 +92,24 @@ public class CalculadoraTests
         // Assert
         Assert.True(resultado);
     }
+
+    // 2, 4, 6, 8, 10
+    // Utilizando o conceito de Theory para testar vários números
+    [Theory]
+    [InlineData(2)]
+    [InlineData(4)]
+    [InlineData(6)]
+    [InlineData(8)]
+    [InlineData(10)]
+    public void DeveVerificarSeOsNumerosSaoParesERetornarVerdadeiro(int numero)
+    {
+
+        // Act
+        bool resultado = _calc.EhPar(numero); 
+        
+        // Assert
+        Assert.True(resultado);
+
+    }
+
 }
