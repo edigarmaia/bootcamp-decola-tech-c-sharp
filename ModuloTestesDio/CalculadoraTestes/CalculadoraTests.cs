@@ -95,6 +95,7 @@ public class CalculadoraTests
 
     // 2, 4, 6, 8, 10
     // Utilizando o conceito de Theory para testar vários números
+   /*
     [Theory]
     [InlineData(2)]
     [InlineData(4)]
@@ -110,6 +111,20 @@ public class CalculadoraTests
         // Assert
         Assert.True(resultado);
 
+    }*/
+
+    // Refatorando usando lista
+    [Theory]
+    [InlineData(new int []{ 2, 4 })]
+    [InlineData(new int []{ 6, 8, 10 })]
+
+    public void DeveVerificarSeOsNumerosSaoParesERetornarVerdadeiro(int[] numeros)
+    {
+
+        // Act / Assert
+        Assert.All(numeros, num => Assert.True(_calc.EhPar(num)));
+
     }
+
 
 }
