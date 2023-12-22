@@ -1,0 +1,14 @@
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\bin\Debug\net7.0\DesafioRobo.exe
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\bin\Debug\net7.0\DesafioRobo.deps.json
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\bin\Debug\net7.0\DesafioRobo.runtimeconfig.json
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\bin\Debug\net7.0\DesafioRobo.dll
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\bin\Debug\net7.0\DesafioRobo.pdb
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\DesafioRobo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\DesafioRobo.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\DesafioRobo.AssemblyInfo.cs
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\DesafioRobo.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\DesafioRobo.dll
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\refint\DesafioRobo.dll
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\DesafioRobo.pdb
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\DesafioRobo.genruntimeconfig.cache
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioRobo\obj\Debug\net7.0\ref\DesafioRobo.dll
