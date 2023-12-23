@@ -1,0 +1,14 @@
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\bin\Debug\net7.0\DesafioJogador.exe
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\bin\Debug\net7.0\DesafioJogador.deps.json
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\bin\Debug\net7.0\DesafioJogador.runtimeconfig.json
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\bin\Debug\net7.0\DesafioJogador.dll
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\bin\Debug\net7.0\DesafioJogador.pdb
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\DesafioJogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\DesafioJogador.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\DesafioJogador.AssemblyInfo.cs
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\DesafioJogador.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\DesafioJogador.dll
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\refint\DesafioJogador.dll
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\DesafioJogador.pdb
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\DesafioJogador.genruntimeconfig.cache
+C:\Users\home\Documents\Cursos Internet\bootcamp-decola-tech\Desafios POO\DesafioJogador\obj\Debug\net7.0\ref\DesafioJogador.dll
